@@ -58,6 +58,13 @@ header .navbar {
     padding-top: .5rem;
     padding-bottom: .5rem;
   }
+
+  .site-hero.overlay {
+    /* background-image: url(../images/bg_2.jpg) !important; */
+    background-position: center !important;
+    position: relative !important;
+    background-size: cover !important;
+  }
 }
 
 header .navbar .nav-link {
@@ -69,6 +76,7 @@ header .navbar .nav-link {
   header .navbar .nav-link {
     padding: .5rem .5rem;
   }
+
 }
 
 header .navbar .nav-link:hover {
